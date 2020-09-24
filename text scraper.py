@@ -5,7 +5,7 @@ import os
 import cfscrape
 
 # website with model images
-url = 'https://www.briethirty.com'
+url = 'https://www.reddit.com'
 
 scraper = cfscrape.create_scraper()
 
